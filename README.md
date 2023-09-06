@@ -14,3 +14,6 @@
     <li> git commit -m "Un nuevo mensaje" </li>
     <li> git push -u origin main </li>
 </ol>
+
+<h1> Verifiar el estatus del repositorio </h1>
+<p> git status </p>
