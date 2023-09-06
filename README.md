@@ -17,3 +17,4 @@
 
 <h1> Verificar el estatus del repositorio </h1>
 <p> git status </p>
+<p> Se repite nuevamente el mismo proceso si quiere actualizar el repositorio </p>
