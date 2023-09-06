@@ -15,5 +15,5 @@
     <li> git push -u origin main </li>
 </ol>
 
-<h1> Verifiar el estatus del repositorio </h1>
+<h1> Verificar el estatus del repositorio </h1>
 <p> git status </p>
